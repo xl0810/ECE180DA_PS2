@@ -1,0 +1,4 @@
+make[2]: Nothing to be done for 'default'.
+- V e r i l a t i o n   R e p o r t: Verilator 5.032 2025-01-01 rev (Debian 5.032-1)
+- Verilator: Built from 0.000 MB sources in 0 modules, into 0.000 MB in 0 C++ files needing 0.000 MB
+- Verilator: Walltime 0.063 s (elab=0.000, cvt=0.000, bld=0.052); cpu 0.004 s on 8 threads; alloced 7.004 MB
